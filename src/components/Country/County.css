@@ -1,0 +1,8 @@
+.country{
+    border: 1px solid gray;
+    background-color: hotpink;
+    color: white;
+}
+.country img{
+    width: 250px;
+}
